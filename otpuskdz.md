@@ -11,4 +11,7 @@
 ---
 ## Opzionalno
 
+1. Lovit ribu
+4. Perejit Covid
+
 ---
