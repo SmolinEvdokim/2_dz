@@ -8,6 +8,8 @@
 ---
 ## Ispitat
 
+lejat na divane
+
 ---
 ## Opzionalno
 
