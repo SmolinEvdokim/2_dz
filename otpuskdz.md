@@ -5,6 +5,9 @@
 ---
 ## Poprobovat
 
+tu samuju Barabulku na Ugliach
+![Barabulia](123.jpg)
+
 ---
 ## Ispitat
 
