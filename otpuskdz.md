@@ -11,4 +11,7 @@
 ---
 ## Opzionalno
 
+1. Ohota
+2. ezda na verblide
+
 ---
