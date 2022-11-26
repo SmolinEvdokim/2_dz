@@ -2,13 +2,11 @@
 
 ## Posmotret
 
-1. Gori
-2. Lesa
-3. More
-
-
 ---
 ## Poprobovat
+
+tu samuju Barabulku na Ugliach
+![Barabulia](123.jpg)
 
 ---
 ## Ispitat
