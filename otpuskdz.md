@@ -21,5 +21,7 @@ Poletat nad Vulkanom
 
 1. Ohota
 2. ezda na verblide
+1. Lovit ribu
+4. Perejit Covid
 
 ---
