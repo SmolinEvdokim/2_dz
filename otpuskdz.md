@@ -4,9 +4,7 @@
 
 1. Gori
 2. Lesa
-3. More
-
-
+3. More.
 ---
 ## Poprobovat
 
